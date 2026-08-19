@@ -1,4 +1,4 @@
-[# Hi, I'm Thads 👋
+# Hi, I'm Thads 👋
 
 I'm an IT Professional with experience in different facets of IT from Software Development, Software Testing, Automation, IT Support, and Cybersecurity
 
