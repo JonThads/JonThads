@@ -8,7 +8,7 @@ I'm an IT Professional with experience in different facets of IT from Software D
 
 ## 🧰 Tech Stack
 
-**Languages**
+**Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -49,6 +49,10 @@ I'm an IT Professional with experience in different facets of IT from Software D
 
 **Security & Learning**
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+
+**Defect Management & Project Tracking**
+![Atlassian Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Azure DevOps Boards](https://img.shields.io/badge/-Azure_DevOps_Boards-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
 ---
 
