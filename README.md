@@ -1,4 +1,4 @@
-# Hi, I'm Thads 👋
+[# Hi, I'm Thads 👋
 
 I'm an IT Professional with experience in different facets of IT from Software Development, Software Testing, Automation, IT Support, and Cybersecurity
 
@@ -66,6 +66,16 @@ I'm an IT Professional with experience in different facets of IT from Software D
 
 ---
 
+## 🌱 Interests & Learning Path
+ 
+- 🔐 **Cybersecurity** — building on my TryHackMe SOC Level 1 foundation, going deeper into Digital Forensics & Incident Response (DFIR) and Penetration Testing
+- 🤖 **AI Evaluation & Quality** — expanding from DeepEval into RAGAS and Evidently.AI to evaluate LLM outputs with the same rigor I bring to software QA
+- 🧪 **AI-Assisted QA Engineering** — using Claude Code and structured prompt engineering as part of the test design and code-review workflow, not just for scaffolding
+- 📊 **DevOps & Observability** — growing my Prometheus/Grafana skills to monitor systems in production, not just test them pre-release
+- ♿ **Accessibility Testing** — continuing to apply WCAG 2.1 AA standards (Axe-Core) across new projects
+
+---
+
 ## 🎓 Certifications
 
 - ✅ **Claude 101** — Anthropic
@@ -81,6 +91,7 @@ I'm an IT Professional with experience in different facets of IT from Software D
 ## 📫 Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/jon-thaddeus-laguitao-6638a3228/
+- UpWork: https://www.upwork.com/freelancers/~0139fc4c79c2365a27
 - Email: jtflaguitao@gmail.com
 
 ---
