@@ -8,7 +8,7 @@ I'm an IT Professional with experience in different facets of IT from Software D
 
 ## 🧰 Tech Stack
 
-**Programming Languages**
+**Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -42,17 +42,26 @@ I'm an IT Professional with experience in different facets of IT from Software D
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+**Defect Management & Project Tracking**
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps_Boards-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+
+**CLI & Scripting**
+![cURL](https://img.shields.io/badge/-cURL-073551?style=flat-square&logo=curl&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
 **AI-Assisted Engineering**
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-D97757?style=flat-square)
 ![DeepEval](https://img.shields.io/badge/-DeepEval-6E56CF?style=flat-square)
 
+**LLMs**
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
 **Security & Learning**
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-
-**Defect Management & Project Tracking**
-![Atlassian Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Azure DevOps Boards](https://img.shields.io/badge/-Azure_DevOps_Boards-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
 ---
 
@@ -63,16 +72,7 @@ I'm an IT Professional with experience in different facets of IT from Software D
 | 🕐 [**ClockWise**](https://github.com/JonThads/ClockWise) | DTR (Daily Time Record) & Leave Management System with shift scheduling, leave workflows, and an HR/Admin dashboard. WCAG 2.1 AA accessibility-tested with a Python/Allure reporting layer. | PHP, MySQL, Python, Docker, GitHub Actions, Axe-Core, Allure Report |
 | ![Tokenomics](https://img.shields.io/badge/-Tokenomics_MCP-FFD700?style=flat-square&logo=bitcoin&logoColor=black) [**Tokenomics MCP**](https://github.com/JonThads/tokenomics) | An MCP server for counting LLM prompt tokens and estimating API costs across OpenAI and Anthropic models, built for use inside Claude Code. Uses the MCP SDK, tiktoken, and the Anthropic SDK over a stdio-based architecture. | Python, MCP SDK, Docker, GitHub Actions, GHCR |
 | 🥒 [**Pickle-Rick**](https://github.com/JonThads/Pickle-Rick) | Full-stack Pickleball court management & booking system, scaffolded with Claude Code via documentation-driven development. | Node.js/Express, FastAPI, PostgreSQL, Docker, GitHub Actions, Postman/k6/Playwright |
-
----
-
-## 🌱 Interests & Learning Path
- 
-- 🔐 **Cybersecurity** — building on my TryHackMe SOC Level 1 foundation, going deeper into Digital Forensics & Incident Response (DFIR) and Penetration Testing
-- 🤖 **AI Evaluation & Quality** — expanding from DeepEval into RAGAS and Evidently.AI to evaluate LLM outputs with the same rigor I bring to software QA
-- 🧪 **AI-Assisted QA Engineering** — using Claude Code and structured prompt engineering as part of the test design and code-review workflow, not just for scaffolding
-- 📊 **DevOps & Observability** — growing my Prometheus/Grafana skills to monitor systems in production, not just test them pre-release
-- ♿ **Accessibility Testing** — continuing to apply WCAG 2.1 AA standards (Axe-Core) across new projects
+| ![ReposRAG](https://img.shields.io/badge/-ReposRAG-6E56CF?style=flat-square&logo=ollama&logoColor=white) [**ReposRAG**](https://github.com/JonThads/ReposRAG) | Self-hosted RAG service for querying your repos' docs in natural language — local embeddings (sentence-transformers) + local LLM (Ollama) for retrieval-augmented answers, with pgvector for vector search. | Python, FastAPI, Ollama, sentence-transformers, PostgreSQL/pgvector, Prometheus, Grafana |
 
 ---
 
@@ -88,10 +88,19 @@ I'm an IT Professional with experience in different facets of IT from Software D
 
 ---
 
+## 🌱 Interests & Learning Path
+
+- 🔐 **Cybersecurity** — building on my TryHackMe SOC Level 1 foundation, going deeper into Digital Forensics & Incident Response (DFIR) and Penetration Testing
+- 🤖 **AI Evaluation & Quality** — expanding from DeepEval into RAGAS and Evidently.AI to evaluate LLM outputs with the same rigor I bring to software QA
+- 🧪 **AI-Assisted QA Engineering** — using Claude Code and structured prompt engineering as part of the test design and code-review workflow, not just for scaffolding
+- 📊 **DevOps & Observability** — growing my Prometheus/Grafana skills to monitor systems in production, not just test them pre-release
+- ♿ **Accessibility Testing** — continuing to apply WCAG 2.1 AA standards (Axe-Core) across new projects
+
+---
+
 ## 📫 Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/jon-thaddeus-laguitao-6638a3228/
-- UpWork: https://www.upwork.com/freelancers/~0139fc4c79c2365a27
 - Email: jtflaguitao@gmail.com
 
 ---
